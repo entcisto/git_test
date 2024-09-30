@@ -1,1 +1,2 @@
 add some text to it and save it after
+adding more text and saving it now, i'll be using git commit and not git commit -m "message here"
